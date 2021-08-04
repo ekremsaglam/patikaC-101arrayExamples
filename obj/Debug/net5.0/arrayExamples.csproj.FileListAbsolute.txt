@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\bin\Debug\net5.0\arrayExamples.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\bin\Debug\net5.0\arrayExamples.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\bin\Debug\net5.0\arrayExamples.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\bin\Debug\net5.0\arrayExamples.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\bin\Debug\net5.0\arrayExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\bin\Debug\net5.0\ref\arrayExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\bin\Debug\net5.0\arrayExamples.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\ref\arrayExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayExamples\obj\Debug\net5.0\arrayExamples.genruntimeconfig.cache
